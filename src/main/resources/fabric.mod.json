@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "eason_delivery_fast",
+  "version": "1.0.7",
+  "name": "Eason Fast Delivery Food",
+  "description": "Adds boiled eggs and a faster delivery phone that calls Delivery Steve.",
+  "authors": [
+    "MinecraftEason"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.minecrafteason.boiledegg.BoiledEggMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25"
+  }
+}
